@@ -1,0 +1,103 @@
+                /*PREFERENCES STYLE*/
+                    .form-all {
+                      font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Tahoma, sans-serif, sans-serif;
+                    }
+                  
+                    
+                  
+                    .form-line {
+                      margin-top: 12px 36px 12px 36px px;
+                      margin-bottom: 12px 36px 12px 36px px;
+                    }
+                  
+                    .form-all {
+                      max-width: 677px;
+                      width: 100%;
+                    }
+                  
+                    .form-label.form-label-left,
+                    .form-label.form-label-right,
+                    .form-label.form-label-left.form-label-auto,
+                    .form-label.form-label-right.form-label-auto {
+                      width: 150px;
+                    }
+                  
+                    .form-all {
+                      font-size: 14pxpx
+                    }
+                  
+                    .supernova .form-all, .form-all {
+                      background-color: #FFFFFF;
+                    }
+                  
+                    .form-all {
+                      color: #524B3A;
+                    }
+                    .form-header-group .form-header {
+                      color: #524B3A;
+                    }
+                    .form-header-group .form-subHeader {
+                      color: #524B3A;
+                    }
+                    .form-label-top,
+                    .form-label-left,
+                    .form-label-right,
+                    .form-html,
+                    .form-checkbox-item label,
+                    .form-radio-item label,
+                    span.FITB .qb-checkbox-label,
+                    span.FITB .qb-radiobox-label,
+                    span.FITB .form-radio label,
+                    span.FITB .form-checkbox label,
+                    [data-blotid][data-type=checkbox] [data-labelid],
+                    [data-blotid][data-type=radiobox] [data-labelid],
+                    span.FITB-inptCont[data-type=checkbox] label,
+                    span.FITB-inptCont[data-type=radiobox] label {
+                      color: #524B3A;
+                    }
+                    .form-sub-label {
+                      color: #6c6554;
+                    }
+                  
+                  .supernova {
+                    background-color: undefined;
+                  }
+                  .supernova body {
+                    background: transparent;
+                  }
+                  
+                    .form-textbox,
+                    .form-textarea,
+                    .form-dropdown,
+                    .form-radio-other-input,
+                    .form-checkbox-other-input,
+                    .form-captcha input,
+                    .form-spinner input {
+                      background-color: undefined;
+                    }
+                  
+                      
+                    .supernova {
+                      background-repeat: no-repeat;
+                      background-size:cover;
+                      background-attachment: fixed;
+                      background-position: center top;
+                    }
+                
+                      .supernova, #stage {
+                        background-image: none;
+                      }
+                    
+                      .form-all {
+                        background-image: none;
+                      }
+                    /*PREFERENCES STYLE*//*__INSPECT_SEPERATOR__*/
+                .form-label.form-label-auto {
+                        
+                        display: inline-block;
+                        float: left;
+                        text-align: right;
+                      
+                      }
+                    /* Injected CSS Code */
+                
